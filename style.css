@@ -1,0 +1,22 @@
+.heading
+{
+    font-size: 20;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+}
+#Instructions{
+    float: right;
+}
+.footer{
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: chartreuse;
+    text-align: center;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px white;
+    border: 2px solid white;
+}
